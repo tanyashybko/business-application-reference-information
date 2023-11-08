@@ -1,5 +1,3 @@
-# business-application-reference-information
-
 # Названия справочников:
 
 1. Организации
